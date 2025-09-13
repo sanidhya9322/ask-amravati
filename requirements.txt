@@ -1,0 +1,5 @@
+python-telegram-bot==20.8
+apscheduler==3.9.1
+pytz
+openai
+python-dotenv
